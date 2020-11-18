@@ -1,0 +1,57 @@
+body {
+	background-image:url(https://i.pinimg.com/originals/da/42/64/da4264a33bbcfcd56d3cb80e26430518.png);
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+header {
+	background-color:#cc99ff;
+}
+main {
+	background-color:inherit;
+}
+main:active {
+	background-color:white;
+}
+footer {
+	background-color:inherit;
+}
+h1{
+	color:white;
+}
+h2{
+	color:white;
+	background-image:url(https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg);
+}
+p:hover{
+	font-style:oblique;
+	font-weight: bold;
+}
+li:hover{
+	font-style:oblique;
+}
+
+.page-number{
+    color: white;
+}
+
+.page-number:active {
+    color: black;
+}
+
+.table{
+	background-color:red;
+	border: 1px solid black;
+}
+.bold{
+	font-weight:bold
+}
+#blue:hover{
+	color:blue
+}
+#red:hover{
+	color:red
+}
+#green:hover{
+	color:green
+}
+
